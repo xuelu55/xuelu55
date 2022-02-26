@@ -12,4 +12,4 @@
 * 📫 Personal website:[http://xuelu.vip](http://xuelu.vip)
 
   [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=xuegao555&show_icons=true">](http://xuelu.vip)
-  [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuegao555&show_icons=true">](http://xuelu.vip)
+  [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuegao555&show_icons=true">](http://xuelu.vip)
