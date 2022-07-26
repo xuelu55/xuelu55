@@ -5,8 +5,8 @@
 
 * 📦 Sub: HTML/CSS/JS/Vue/C/C++
 
-* 🌱 Idea: Code Create Life
+* 🌱 Idea: Program Change The World
 
-* 👯 Looking to collaborate with you !
+* 👯 I’m looking to collaborate on anything open source!
 
 * 📫 Personal website:[http://xuelu.vip](http://xuelu.vip)
